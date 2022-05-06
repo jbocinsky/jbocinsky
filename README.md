@@ -86,7 +86,7 @@ I am James, Machine Learning Engineer and Data Scientist.
       <img width="410" src="https://user-images.githubusercontent.com/7156049/167061172-a7e2fca5-4379-46ac-8e70-e154fcba89ad.png"/>
     </a>
     <a href="https://github.com/jbocinsky/PortalTurret">
-      <img width="410" src="https://user-images.githubusercontent.com/7156049/167062098-52b36e09-bbfb-4184-aa96-212fec07b3c1.png"/>
+      <img width="410" src="https://user-images.githubusercontent.com/7156049/167063114-9196088f-877e-4421-8258-40ee1caa5144.png"/>
     </a>
 </p>
 
