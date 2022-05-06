@@ -69,24 +69,23 @@ I am James, Machine Learning Engineer and Data Scientist.
 
 ### Pinned repos 📌
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117)](https://github.com/leviarista/eco-stats-peru) -->
+<p align="center">
+    <a href="https://github.com/jbocinsky/Zombies-2">
+      <img width="410" src="https://user-images.githubusercontent.com/7156049/167059770-0c0e62e8-d2c9-4f15-891c-76ec299f496c.png"/>
+    </a>
+    <a href="https://github.com/jbocinsky/Big_Data_Project">
+      <img width="410" src="https://user-images.githubusercontent.com/7156049/167061172-a7e2fca5-4379-46ac-8e70-e154fcba89ad.png"/>
+    </a>
+    <a href="https://github.com/jbocinsky/SunshineAlarm">
+      <img width="410" src="https://user-images.githubusercontent.com/7156049/167060979-af02d66d-874e-49c9-919c-84bb59692774.png"/>
+    </a>
+    <a href="https://github.com/jbocinsky/LED-GIF-Graduation-Cap">
+      <img width="410" src="https://user-images.githubusercontent.com/7156049/167061096-1968404a-208c-418d-8de9-84249dfd846d.png"/>
+    </a>
+</p>
 
-<!-- p align="center">
-    <a href="https://github.com/leviarista/github-profile-header-generator">
-      <img width="410" src="https://repository-images.githubusercontent.com/464195386/913299a3-ab61-4f25-af43-0875996a0f13"/>
-    </a>
-    <a href="https://github.com/leviarista/eco-stats-peru">
-      <img width="400" src="https://repository-images.githubusercontent.com/340539352/ef20cd80-7a0d-11eb-89f7-7d47d811e502"/>
-      <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&theme=tokyonight&show_owner=false" />
-    </a>
-    <a href="https://github.com/leviarista/twenty_one_mining">
-      <img width="410" src="https://repository-images.githubusercontent.com/384718454/cb85f71c-7193-455e-87c0-e8abf16ad56f"/>
-      <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=twenty_one_mining&show_icons=true&theme=tokyonight&show_owner=false" />
-    </a>
-    <a href="https://github.com/leviarista/speciess">
-      <img width="400" src="https://repository-images.githubusercontent.com/444587364/fb40681d-05c7-4a8a-b928-1b63d1bcbe8d"/>
-    </a>
-</p> -->
+
+
 
 ### Stats 📈
 
