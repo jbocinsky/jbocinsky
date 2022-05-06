@@ -73,6 +73,9 @@ I am James, Machine Learning Engineer and Data Scientist.
     <a href="https://github.com/jbocinsky/Zombies-2">
       <img width="410" src="https://user-images.githubusercontent.com/7156049/167059770-0c0e62e8-d2c9-4f15-891c-76ec299f496c.png"/>
     </a>
+    <a href="https://github.com/jbocinsky/Car-Inventory-Bot">
+      <img width="410" src="https://user-images.githubusercontent.com/7156049/167061606-e04950d6-c145-4916-bd14-32ea46a4f6ae.png"/>
+    </a>
     <a href="https://github.com/jbocinsky/SunshineAlarm">
       <img width="410" src="https://user-images.githubusercontent.com/7156049/167060979-af02d66d-874e-49c9-919c-84bb59692774.png"/>
     </a>
