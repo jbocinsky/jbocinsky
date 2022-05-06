@@ -11,60 +11,60 @@ I am James, Machine Learning Engineer and Data Scientist.
 <p align="center">
     <a href="https://www.python.org/doc/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
+            alt="python" width="60" height="60" /> </a>
     <a href="https://numpy.org/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"
-            alt="numpy" width="40" height="40" /> </a>
+            alt="numpy" width="60" height="60" /> </a>
     <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"
-            alt="pandas" width="40" height="40" /> </a>
+            alt="pandas" width="60" height="60" /> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40"
-            height="40" /></a>
+            src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="60"
+            height="60" /></a>
     <a href="https://jupyter.org/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"
-            alt="jupyter" width="40" height="40" /> </a>
+            alt="jupyter" width="60" height="60" /> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40"
-            height="40" /> </a>
+            src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="60"
+            height="60" /> </a>
 </p>
 <p align="center">
     <a href="https://www.linux.org/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-            alt="linux" width="40" height="40" /> </a>
+            alt="linux" width="60" height="60" /> </a>
     <a href="https://devdocs.io/c/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-            alt="C" width="40" height="40" /> </a>
+            alt="C" width="60" height="60" /> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
-            alt="bash" width="40" height="40" /> </a>
+            alt="bash" width="60" height="60" /> </a>
     <a href="https://man.openbsd.org/ssh.1" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40" /> </a>
+            src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" width="60" height="60" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" /> </a>
+            alt="aws" width="60" height="60" /> </a>
 </p>
 <p align="center">
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab"
-            width="40" height="40" /> </a>
+            width="60" height="60" /> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40"
-            height="40" /> </a>
+            src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="60"
+            height="60" /> </a>
     <a href="https://www.raspberrypi.org/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"
-            alt="raspberrypi" width="40" height="40" /> </a>
+            alt="raspberrypi" width="60" height="60" /> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a>
+            alt="mysql" width="60" height="60" /> </a>
     <a href="https://www.latex-project.org/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"
-            alt="latex" width="40" height="40" /> </a>
+            alt="latex" width="60" height="60" /> </a>
     <a href="https://slack.com/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack"
-            width="40" height="40" /> </a>
+            width="60" height="60" /> </a>
 </p>
 
 ### Pinned repos 📌
